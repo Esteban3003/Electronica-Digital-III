@@ -1,6 +1,3 @@
-# Electronica-Digital-III
-Trabajo Practico Integrador de la asignatura
-
 # Grabador / Reproductor de Voz – LPC1769
 
 Proyecto basado en la LPC1769 que permite grabar audio mediante ADC, reproducirlo por DAC utilizando DMA y transmitir las muestras por UART. El sistema opera mediante dos botones y un potenciómetro que ajusta la velocidad de reproducción.
